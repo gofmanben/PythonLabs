@@ -1,0 +1,41 @@
+Today's date (month,year) using integers: hello,world
+Invalid date!
+
+Today's date (month,year) using integers: 13,2
+Invalid month!
+
+Today's date (month,year) using integers: 7,2000
+Invalid year!
+
+Today's date (month,year) using integers: 7,2024
+State house is in: California
+Original house cost: $One thousand
+Invalid house cost!
+Original house cost: $1000
+The house cost $1,000.00 is not realistic!
+Original house cost: $700000
+What year was the $700,000.00 house purchased in: 2000.5
+Invalid purchase year!
+What year was the $700,000.00 house purchased in: 1700
+Invalid purchase year range 1800-2024
+What year was the $700,000.00 house purchased in: 2010
+
+The house cost $700,000.00 in 2010
+Medium value
+
+On today's date of 7/2024, the value of the land purchased in California at the price of $700,000.00 in 2010 is worth in 2024 at a price of $8,987,429.25.
+
+Tap q if you want to quit, press any key to continue:
+
+Today's date (month,year) using integers: 7,2024
+State house is in: California
+Original house cost: $600000
+What year was the $600,000.00 house purchased in: 1950
+
+The house cost $600,000.00 in 1950
+Good value
+
+On today's date of 7/2024, the value of the land purchased in California at the price of $600,000.00 in 1950 is worth in 2024 at a price of $434,073,684,656.78.
+
+Tap q if you want to quit, press any key to continue: q
+Goodbye!
