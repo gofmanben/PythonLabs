@@ -5,7 +5,7 @@ This project contains three Python lab assignments that demonstrate structured p
 
 ---
 
-## Lab 2 - **Bookstore Purchase System** (`HW 2/hw2.py`)
+## Lab 2 - **Bookstore Purchase System** (`HW2/hw2.py`)
 
 ### Business Scenario
 
